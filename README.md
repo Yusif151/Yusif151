@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yusif151
+- 👋 Hi, I’m Yusif
 - 👀 I’m interested in music, photography, videography and coding
-- 🌱 I’m currently learning C, Haskell
+- 🌱 Currently learning C, C++, Python, Julia, Haskell
 
 <!---
 Yusif151/Yusif151 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
